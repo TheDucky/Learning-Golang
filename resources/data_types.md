@@ -1,18 +1,18 @@
 # Golang Types
-<hr>
+____
 
 ## Numbers
 
-### Integres
+### Integer
 
-#### Unsigned Integres (no negatives)
+#### Unsigned Integer (no negatives)
 
 - `uint8` (0 to 255)
 - `uint16` (0 to 65535)
 - `uint32` (0 to 4294967295)
 - `uint64` (0 to 18446744073709551615)
 
-#### Signed Integres
+#### Signed Integer
 
 - `int8` (-128 to 127) 
 - `int16` (-32768 to 32767)
@@ -45,3 +45,7 @@
 ## Boolean
 
 - `bool = true/false`
+
+___
+
+*resource from:* https://www.tutorialspoint.com/go/go_data_types.htm
