@@ -10,7 +10,7 @@ func main() {
 
 	if inputNumber%2 == 0 {
 		fmt.Println(inputNumber ,"is an even number")
-	} else {
+	}else {
 		fmt.Println(inputNumber ,"is an odd number")
 	}
 }
