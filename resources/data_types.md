@@ -48,4 +48,5 @@ ____
 
 ___
 
-*resource from:* https://www.tutorialspoint.com/go/go_data_types.htm
+*bibliography*
+- https://www.tutorialspoint.com/go/go_data_types.htm

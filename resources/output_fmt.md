@@ -54,4 +54,5 @@ ____
 - `%-5d` pads with spaces | width 5, left justified
 ___
 
-*resource from:* https://pkg.go.dev/fmt
+*bibliography* 
+- https://pkg.go.dev/fmt
