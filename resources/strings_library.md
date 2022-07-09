@@ -42,11 +42,13 @@ To find the length of a string In Go, we use the `len()` function. (used in the 
 | :---: | :--- |
 | `.Compare()` | compares two strings
 | `.Contains()` | checks if a substring is present inside a string
-| `.Replaces()` | replaces a substring with another substring
+| `.Replace()` | replaces a substring with another substring
 | `.ToLower()`	| converts a string to lowercase
 | `.ToUpper()`	| converts a string to uppercase
 | `.Split()` | splits a string into multiple substrings
-| `.Compare()` | compare 2 strings to eachother
+| `.Join` | Join each element of the slice.
+| `.Trim` | Trims the specified portion of a string
+| `.Index` & `.LastIndex`| returns the index value of a character in a string 
 
 ```go
 import (
